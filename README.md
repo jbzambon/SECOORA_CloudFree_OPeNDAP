@@ -15,6 +15,8 @@ python secoora_cloudfree.py
 
 Thanks to SECOODA for their support through the 2017 SECOORA Data Challenge!
 
--Joe Zambon\n
+-Joe Zambon
+
 jbzambon@ncsu.edu
+
 www.joezambon.com
