@@ -9,7 +9,7 @@ source activate secoora_cloudfree
 jupyter notebook SECOORA_CloudFree_OPeNDAP.ipynb   OR  
 python secoora_cloudfree.py
 
-Thanks to SECOODA for their support through the 2017 SECOORA Data Challenge!
+Thanks to SECOORA for their support through the 2017 SECOORA Data Challenge!
 
 -Joe Zambon  
 jbzambon@ncsu.edu  
